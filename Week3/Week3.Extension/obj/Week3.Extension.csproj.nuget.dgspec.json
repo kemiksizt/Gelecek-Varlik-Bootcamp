@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Turab\\Documents\\GitHub\\odev-3-kemiksizt\\Week3\\Week3.Extension\\Week3.Extension.csproj": {}
+    "C:\\Users\\Turab\\Desktop\\Gelecek varlık\\Gelecek-Varlik-Bootcamp\\Week3\\Week3.Extension\\Week3.Extension.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Turab\\Documents\\GitHub\\odev-3-kemiksizt\\Week3\\Week3.Extension\\Week3.Extension.csproj": {
+    "C:\\Users\\Turab\\Desktop\\Gelecek varlık\\Gelecek-Varlik-Bootcamp\\Week3\\Week3.Extension\\Week3.Extension.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Turab\\Documents\\GitHub\\odev-3-kemiksizt\\Week3\\Week3.Extension\\Week3.Extension.csproj",
+        "projectUniqueName": "C:\\Users\\Turab\\Desktop\\Gelecek varlık\\Gelecek-Varlik-Bootcamp\\Week3\\Week3.Extension\\Week3.Extension.csproj",
         "projectName": "Week3.Extension",
-        "projectPath": "C:\\Users\\Turab\\Documents\\GitHub\\odev-3-kemiksizt\\Week3\\Week3.Extension\\Week3.Extension.csproj",
+        "projectPath": "C:\\Users\\Turab\\Desktop\\Gelecek varlık\\Gelecek-Varlik-Bootcamp\\Week3\\Week3.Extension\\Week3.Extension.csproj",
         "packagesPath": "C:\\Users\\Turab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Turab\\Documents\\GitHub\\odev-3-kemiksizt\\Week3\\Week3.Extension\\obj\\",
+        "outputPath": "C:\\Users\\Turab\\Desktop\\Gelecek varlık\\Gelecek-Varlik-Bootcamp\\Week3\\Week3.Extension\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Turab\\AppData\\Roaming\\NuGet\\NuGet.Config",

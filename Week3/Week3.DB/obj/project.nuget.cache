@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0ZNuDbMAQ/aXQq4CXANtXXiWXEZvT0gU3sEgq0RcwQx/O9I1VCKQB7G7XvckhmquMLpAtIBC4oR6792wUkPuWw==",
+  "dgSpecHash": "63o+axss7BNr2dwqRXyV/2Z8zXALAQH5qcINkAS3HyaPNIar+PMbqZGoY6PZQHR1YLFvIWJpMwGJr8qhlzvHsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Turab\\Documents\\GitHub\\odev-3-kemiksizt\\Week3\\Week3.DB\\Week3.DB.csproj",
+  "projectFilePath": "C:\\Users\\Turab\\Desktop\\Gelecek varlık\\Gelecek-Varlik-Bootcamp\\Week3\\Week3.DB\\Week3.DB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Turab\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Turab\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
