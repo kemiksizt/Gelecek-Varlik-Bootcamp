@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EJd0iCUFOx3aFA98IsR7EWXLv+bNMpbK2M79Jc+K5UMHcohMDrJzjkv4Irhknn+P1gnwsRjKOOHkDyKAcgwOIQ==",
+  "dgSpecHash": "l004Q9G24qotAgG2kX9IFMlOjBrVTin/xnCce6qdUpcreWT4lsu65SiUgm4LYDiNG/ZBv9HHzOyfzXBx9UPGKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Turab\\Desktop\\Hafta4\\odev-4-kemiksizt\\Week3\\Week3.Service\\Week3.Service.csproj",
+  "projectFilePath": "C:\\Users\\Turab\\Desktop\\Gelecek varlık\\Gelecek-Varlik-Bootcamp\\Week4\\Week3.Service\\Week3.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Turab\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Turab\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
