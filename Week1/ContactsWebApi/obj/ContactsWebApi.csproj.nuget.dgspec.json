@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Turab\\Documents\\GitHub\\net-5-api-httpverbs-kullanimi-kemiksizt\\ContactsWebApiProject\\ContactsWebApi\\ContactsWebApi.csproj": {}
+    "C:\\Users\\Turab\\Desktop\\Gelecek varlık\\Gelecek-Varlik-Bootcamp\\Week1\\ContactsWebApi\\ContactsWebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Turab\\Documents\\GitHub\\net-5-api-httpverbs-kullanimi-kemiksizt\\ContactsWebApiProject\\ContactsWebApi\\ContactsWebApi.csproj": {
+    "C:\\Users\\Turab\\Desktop\\Gelecek varlık\\Gelecek-Varlik-Bootcamp\\Week1\\ContactsWebApi\\ContactsWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Turab\\Documents\\GitHub\\net-5-api-httpverbs-kullanimi-kemiksizt\\ContactsWebApiProject\\ContactsWebApi\\ContactsWebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Turab\\Desktop\\Gelecek varlık\\Gelecek-Varlik-Bootcamp\\Week1\\ContactsWebApi\\ContactsWebApi.csproj",
         "projectName": "ContactsWebApi",
-        "projectPath": "C:\\Users\\Turab\\Documents\\GitHub\\net-5-api-httpverbs-kullanimi-kemiksizt\\ContactsWebApiProject\\ContactsWebApi\\ContactsWebApi.csproj",
+        "projectPath": "C:\\Users\\Turab\\Desktop\\Gelecek varlık\\Gelecek-Varlik-Bootcamp\\Week1\\ContactsWebApi\\ContactsWebApi.csproj",
         "packagesPath": "C:\\Users\\Turab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Turab\\Documents\\GitHub\\net-5-api-httpverbs-kullanimi-kemiksizt\\ContactsWebApiProject\\ContactsWebApi\\obj\\",
+        "outputPath": "C:\\Users\\Turab\\Desktop\\Gelecek varlık\\Gelecek-Varlik-Bootcamp\\Week1\\ContactsWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Turab\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Turab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

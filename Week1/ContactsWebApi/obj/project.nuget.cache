@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lmhh7CYUKpqkJW5Enre4OB4xlGUnf/5WOGL64tHZ5oXmIRejsndUaDHELWFrgYGFzNrVyl/OZYuGq96x3iGZOQ==",
+  "dgSpecHash": "YTRtePH9ZxncsXpJNG4PU0aBwbtmuexeRQW6IDC+ChCxX9iMRKK/HEh0S/dl2Nnl6vicPOCfND7liakULXIHZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Turab\\Documents\\GitHub\\net-5-api-httpverbs-kullanimi-kemiksizt\\ContactsWebApiProject\\ContactsWebApi\\ContactsWebApi.csproj",
+  "projectFilePath": "C:\\Users\\Turab\\Desktop\\Gelecek varlık\\Gelecek-Varlik-Bootcamp\\Week1\\ContactsWebApi\\ContactsWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Turab\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Turab\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
