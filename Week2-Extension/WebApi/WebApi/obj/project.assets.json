@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Turab\\Documents\\GitHub\\odev-2-extensions-kemiksizt\\proje1\\WebApi\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Turab\\Desktop\\Gelecek varlık\\Gelecek-Varlik-Bootcamp\\Week2-Extension\\WebApi\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Users\\Turab\\Documents\\GitHub\\odev-2-extensions-kemiksizt\\proje1\\WebApi\\WebApi\\WebApi.csproj",
+      "projectPath": "C:\\Users\\Turab\\Desktop\\Gelecek varlık\\Gelecek-Varlik-Bootcamp\\Week2-Extension\\WebApi\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\Turab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Turab\\Documents\\GitHub\\odev-2-extensions-kemiksizt\\proje1\\WebApi\\WebApi\\obj\\",
+      "outputPath": "C:\\Users\\Turab\\Desktop\\Gelecek varlık\\Gelecek-Varlik-Bootcamp\\Week2-Extension\\WebApi\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Turab\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Turab\\Documents\\GitHub\\odev-2-extensions-kemiksizt\\proje1\\WebApi\\Extension\\Extension.csproj": {
-              "projectPath": "C:\\Users\\Turab\\Documents\\GitHub\\odev-2-extensions-kemiksizt\\proje1\\WebApi\\Extension\\Extension.csproj"
+            "C:\\Users\\Turab\\Desktop\\Gelecek varlık\\Gelecek-Varlik-Bootcamp\\Week2-Extension\\WebApi\\Extension\\Extension.csproj": {
+              "projectPath": "C:\\Users\\Turab\\Desktop\\Gelecek varlık\\Gelecek-Varlik-Bootcamp\\Week2-Extension\\WebApi\\Extension\\Extension.csproj"
             }
           }
         }

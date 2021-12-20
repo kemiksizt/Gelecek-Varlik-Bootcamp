@@ -80,3 +80,44 @@ C:\Users\Turab\Documents\GitHub\odev-2-extensions-kemiksizt\proje1\WebApi\WebApi
 C:\Users\Turab\Documents\GitHub\odev-2-extensions-kemiksizt\proje1\WebApi\WebApi\obj\Debug\net5.0\ref\WebApi.dll
 C:\Users\Turab\Documents\GitHub\odev-2-extensions-kemiksizt\proje1\WebApi\WebApi\obj\Debug\net5.0\WebApi.pdb
 C:\Users\Turab\Documents\GitHub\odev-2-extensions-kemiksizt\proje1\WebApi\WebApi\obj\Debug\net5.0\WebApi.genruntimeconfig.cache
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\bin\Debug\net5.0\WebApi.exe
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\bin\Debug\net5.0\WebApi.deps.json
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\bin\Debug\net5.0\WebApi.runtimeconfig.json
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\bin\Debug\net5.0\WebApi.runtimeconfig.dev.json
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\bin\Debug\net5.0\WebApi.dll
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\bin\Debug\net5.0\ref\WebApi.dll
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\bin\Debug\net5.0\WebApi.pdb
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\bin\Debug\net5.0\WebApi.Views.dll
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\bin\Debug\net5.0\WebApi.Views.pdb
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\bin\Debug\net5.0\Extension.dll
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\bin\Debug\net5.0\Extension.pdb
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\obj\Debug\net5.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\obj\Debug\net5.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfo.cs
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\obj\Debug\net5.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\obj\Debug\net5.0\WebApi.RazorAssemblyInfo.cache
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\obj\Debug\net5.0\WebApi.RazorAssemblyInfo.cs
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\obj\Debug\net5.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\obj\Debug\net5.0\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\obj\Debug\net5.0\WebApi.TagHelpers.input.cache
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\obj\Debug\net5.0\WebApi.TagHelpers.output.cache
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\obj\Debug\net5.0\WebApi.RazorCoreGenerate.cache
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\obj\Debug\net5.0\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\obj\Debug\net5.0\WebApi.RazorTargetAssemblyInfo.cs
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\obj\Debug\net5.0\WebApi.Views.pdb
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\obj\Debug\net5.0\WebApi.csproj.CopyComplete
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\obj\Debug\net5.0\WebApi.dll
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\obj\Debug\net5.0\ref\WebApi.dll
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\obj\Debug\net5.0\WebApi.pdb
+C:\Users\Turab\Desktop\Gelecek varlık\Gelecek-Varlik-Bootcamp\Week2-Extension\WebApi\WebApi\obj\Debug\net5.0\WebApi.genruntimeconfig.cache

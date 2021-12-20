@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6fad003a-9428-4700-9dba-d83c4c208109": {
+      "ProjectGuid": "6fad003a-9428-4700-9dba-d83c4c208109",
+      "DisplayName": "ContactsWebApi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
